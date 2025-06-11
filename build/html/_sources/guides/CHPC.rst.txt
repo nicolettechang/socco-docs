@@ -27,9 +27,12 @@ On the command line
 
 H3
 ~~~~~~
-helllooo
 
-.. code-block:: python
+Python code example
+
+.. code-block:: python 
+    :linenos:
+
     from collections import defaultdict
 
 
